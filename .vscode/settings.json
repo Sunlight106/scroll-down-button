@@ -1,0 +1,14 @@
+{
+    "indentOnPaste.endingBlocks": [
+
+        "}",
+        "]",
+        ">",
+        "</",
+        "<?end",
+        "<?phpend",
+        "<?else",
+        "<?phpelse"
+    ],
+    "vetur.format.options.tabSize": 1
+}
